@@ -1,5 +1,0 @@
-c:\users\donch_000\documents\visual studio 2013\Projects\DataTypes\Charcter\bin\Debug\Charcter.exe.config
-c:\users\donch_000\documents\visual studio 2013\Projects\DataTypes\Charcter\bin\Debug\Charcter.exe
-c:\users\donch_000\documents\visual studio 2013\Projects\DataTypes\Charcter\bin\Debug\Charcter.pdb
-c:\users\donch_000\documents\visual studio 2013\Projects\DataTypes\Charcter\obj\Debug\Charcter.exe
-c:\users\donch_000\documents\visual studio 2013\Projects\DataTypes\Charcter\obj\Debug\Charcter.pdb

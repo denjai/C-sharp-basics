@@ -1,5 +1,0 @@
-c:\users\donch_000\documents\visual studio 2013\Projects\Loops\7.Combination\bin\Debug\7.Combination.exe
-c:\users\donch_000\documents\visual studio 2013\Projects\Loops\7.Combination\bin\Debug\7.Combination.pdb
-c:\users\donch_000\documents\visual studio 2013\Projects\Loops\7.Combination\obj\Debug\7.Combination.csprojResolveAssemblyReference.cache
-c:\users\donch_000\documents\visual studio 2013\Projects\Loops\7.Combination\obj\Debug\7.Combination.exe
-c:\users\donch_000\documents\visual studio 2013\Projects\Loops\7.Combination\obj\Debug\7.Combination.pdb

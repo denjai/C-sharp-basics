@@ -1,5 +1,0 @@
-C:\Users\donch_000\Documents\Visual Studio 2013\Projects\Operators\oddOrEven\bin\Release\oddOrEven.exe.config
-C:\Users\donch_000\Documents\Visual Studio 2013\Projects\Operators\oddOrEven\bin\Release\oddOrEven.exe
-C:\Users\donch_000\Documents\Visual Studio 2013\Projects\Operators\oddOrEven\bin\Release\oddOrEven.pdb
-C:\Users\donch_000\Documents\Visual Studio 2013\Projects\Operators\oddOrEven\obj\Release\oddOrEven.exe
-C:\Users\donch_000\Documents\Visual Studio 2013\Projects\Operators\oddOrEven\obj\Release\oddOrEven.pdb

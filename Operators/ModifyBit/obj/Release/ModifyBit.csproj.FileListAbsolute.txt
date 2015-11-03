@@ -1,6 +1,0 @@
-C:\Users\donch_000\Documents\Visual Studio 2013\Projects\Operators\ModifyBit\bin\Release\ModifyBit.exe.config
-C:\Users\donch_000\Documents\Visual Studio 2013\Projects\Operators\ModifyBit\bin\Release\ModifyBit.exe
-C:\Users\donch_000\Documents\Visual Studio 2013\Projects\Operators\ModifyBit\bin\Release\ModifyBit.pdb
-C:\Users\donch_000\Documents\Visual Studio 2013\Projects\Operators\ModifyBit\obj\Release\ModifyBit.csprojResolveAssemblyReference.cache
-C:\Users\donch_000\Documents\Visual Studio 2013\Projects\Operators\ModifyBit\obj\Release\ModifyBit.exe
-C:\Users\donch_000\Documents\Visual Studio 2013\Projects\Operators\ModifyBit\obj\Release\ModifyBit.pdb

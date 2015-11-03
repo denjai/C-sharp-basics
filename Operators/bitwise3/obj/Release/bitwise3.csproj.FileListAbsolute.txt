@@ -1,5 +1,0 @@
-C:\Users\donch_000\Documents\Visual Studio 2013\Projects\Operators\bitwise3\bin\Release\bitwise3.exe.config
-C:\Users\donch_000\Documents\Visual Studio 2013\Projects\Operators\bitwise3\bin\Release\bitwise3.exe
-C:\Users\donch_000\Documents\Visual Studio 2013\Projects\Operators\bitwise3\bin\Release\bitwise3.pdb
-C:\Users\donch_000\Documents\Visual Studio 2013\Projects\Operators\bitwise3\obj\Release\bitwise3.exe
-C:\Users\donch_000\Documents\Visual Studio 2013\Projects\Operators\bitwise3\obj\Release\bitwise3.pdb

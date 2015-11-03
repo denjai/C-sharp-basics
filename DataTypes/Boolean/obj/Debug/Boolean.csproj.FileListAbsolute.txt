@@ -1,5 +1,0 @@
-c:\users\donch_000\documents\visual studio 2013\Projects\DataTypes\Boolean\bin\Debug\Boolean.exe.config
-c:\users\donch_000\documents\visual studio 2013\Projects\DataTypes\Boolean\bin\Debug\Boolean.exe
-c:\users\donch_000\documents\visual studio 2013\Projects\DataTypes\Boolean\bin\Debug\Boolean.pdb
-c:\users\donch_000\documents\visual studio 2013\Projects\DataTypes\Boolean\obj\Debug\Boolean.exe
-c:\users\donch_000\documents\visual studio 2013\Projects\DataTypes\Boolean\obj\Debug\Boolean.pdb

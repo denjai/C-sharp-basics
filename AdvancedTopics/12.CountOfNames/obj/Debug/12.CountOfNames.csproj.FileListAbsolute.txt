@@ -1,7 +1,0 @@
-C:\Users\donch_000\Documents\Visual Studio 2013\Projects\AdvancedTopics\12.CountOfNames\bin\Debug\12.CountOfNames.exe
-C:\Users\donch_000\Documents\Visual Studio 2013\Projects\AdvancedTopics\12.CountOfNames\bin\Debug\12.CountOfNames.pdb
-C:\Users\donch_000\Documents\Visual Studio 2013\Projects\AdvancedTopics\12.CountOfNames\obj\Debug\12.CountOfNames.csprojResolveAssemblyReference.cache
-C:\Users\donch_000\Documents\Visual Studio 2013\Projects\AdvancedTopics\12.CountOfNames\obj\Debug\12.CountOfNames.exe
-C:\Users\donch_000\Documents\Visual Studio 2013\Projects\AdvancedTopics\12.CountOfNames\obj\Debug\12.CountOfNames.pdb
-H:\Dropbox\Projects\Visual Studio 2013\AdvancedTopics\12.CountOfNames\obj\Debug\12.CountOfNames.exe
-H:\Dropbox\Projects\Visual Studio 2013\AdvancedTopics\12.CountOfNames\obj\Debug\12.CountOfNames.pdb

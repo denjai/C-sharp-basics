@@ -1,4 +1,0 @@
-c:\users\donch_000\documents\visual studio 2013\Projects\Loops\6.CalculateFacDev\bin\Debug\6.CalculateFacDev.exe
-c:\users\donch_000\documents\visual studio 2013\Projects\Loops\6.CalculateFacDev\bin\Debug\6.CalculateFacDev.pdb
-c:\users\donch_000\documents\visual studio 2013\Projects\Loops\6.CalculateFacDev\obj\Debug\6.CalculateFacDev.exe
-c:\users\donch_000\documents\visual studio 2013\Projects\Loops\6.CalculateFacDev\obj\Debug\6.CalculateFacDev.pdb

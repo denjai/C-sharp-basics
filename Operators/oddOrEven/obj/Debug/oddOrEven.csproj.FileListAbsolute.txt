@@ -1,6 +1,0 @@
-C:\Users\donch_000\Documents\Visual Studio 2013\Projects\Operators\oddOrEven\bin\Debug\oddOrEven.exe.config
-C:\Users\donch_000\Documents\Visual Studio 2013\Projects\Operators\oddOrEven\bin\Debug\oddOrEven.exe
-C:\Users\donch_000\Documents\Visual Studio 2013\Projects\Operators\oddOrEven\bin\Debug\oddOrEven.pdb
-C:\Users\donch_000\Documents\Visual Studio 2013\Projects\Operators\oddOrEven\obj\Debug\oddOrEven.csprojResolveAssemblyReference.cache
-C:\Users\donch_000\Documents\Visual Studio 2013\Projects\Operators\oddOrEven\obj\Debug\oddOrEven.exe
-C:\Users\donch_000\Documents\Visual Studio 2013\Projects\Operators\oddOrEven\obj\Debug\oddOrEven.pdb

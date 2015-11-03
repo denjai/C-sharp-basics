@@ -1,4 +1,0 @@
-c:\users\donch_000\documents\visual studio 2013\Projects\ConditionalStatements\3.PlayCard\bin\Debug\3.PlayCard.exe
-c:\users\donch_000\documents\visual studio 2013\Projects\ConditionalStatements\3.PlayCard\bin\Debug\3.PlayCard.pdb
-c:\users\donch_000\documents\visual studio 2013\Projects\ConditionalStatements\3.PlayCard\obj\Debug\3.PlayCard.exe
-c:\users\donch_000\documents\visual studio 2013\Projects\ConditionalStatements\3.PlayCard\obj\Debug\3.PlayCard.pdb

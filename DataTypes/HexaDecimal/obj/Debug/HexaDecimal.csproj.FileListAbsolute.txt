@@ -1,5 +1,0 @@
-c:\users\donch_000\documents\visual studio 2013\Projects\DataTypes\HexaDecimal\bin\Debug\HexaDecimal.exe.config
-c:\users\donch_000\documents\visual studio 2013\Projects\DataTypes\HexaDecimal\bin\Debug\HexaDecimal.exe
-c:\users\donch_000\documents\visual studio 2013\Projects\DataTypes\HexaDecimal\bin\Debug\HexaDecimal.pdb
-c:\users\donch_000\documents\visual studio 2013\Projects\DataTypes\HexaDecimal\obj\Debug\HexaDecimal.exe
-c:\users\donch_000\documents\visual studio 2013\Projects\DataTypes\HexaDecimal\obj\Debug\HexaDecimal.pdb

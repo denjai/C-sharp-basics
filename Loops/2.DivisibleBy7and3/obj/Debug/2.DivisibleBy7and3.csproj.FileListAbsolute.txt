@@ -1,4 +1,0 @@
-c:\users\donch_000\documents\visual studio 2013\Projects\Loops\2.DivisibleBy7and3\bin\Debug\2.DivisibleBy7and3.exe
-c:\users\donch_000\documents\visual studio 2013\Projects\Loops\2.DivisibleBy7and3\bin\Debug\2.DivisibleBy7and3.pdb
-c:\users\donch_000\documents\visual studio 2013\Projects\Loops\2.DivisibleBy7and3\obj\Debug\2.DivisibleBy7and3.exe
-c:\users\donch_000\documents\visual studio 2013\Projects\Loops\2.DivisibleBy7and3\obj\Debug\2.DivisibleBy7and3.pdb

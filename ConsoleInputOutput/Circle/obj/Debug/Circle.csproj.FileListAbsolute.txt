@@ -1,5 +1,0 @@
-C:\Users\donch_000\Documents\Visual Studio 2013\Projects\ConsoleInputOutput\Circle\bin\Debug\Circle.exe
-C:\Users\donch_000\Documents\Visual Studio 2013\Projects\ConsoleInputOutput\Circle\bin\Debug\Circle.pdb
-C:\Users\donch_000\Documents\Visual Studio 2013\Projects\ConsoleInputOutput\Circle\obj\Debug\Circle.csprojResolveAssemblyReference.cache
-C:\Users\donch_000\Documents\Visual Studio 2013\Projects\ConsoleInputOutput\Circle\obj\Debug\Circle.exe
-C:\Users\donch_000\Documents\Visual Studio 2013\Projects\ConsoleInputOutput\Circle\obj\Debug\Circle.pdb

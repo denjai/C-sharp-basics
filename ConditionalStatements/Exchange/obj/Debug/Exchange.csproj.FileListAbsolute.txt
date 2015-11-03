@@ -1,5 +1,0 @@
-c:\users\donch_000\documents\visual studio 2013\Projects\ConditionalStatements\Exchange\bin\Debug\Exchange.exe
-c:\users\donch_000\documents\visual studio 2013\Projects\ConditionalStatements\Exchange\bin\Debug\Exchange.pdb
-c:\users\donch_000\documents\visual studio 2013\Projects\ConditionalStatements\Exchange\obj\Debug\Exchange.csprojResolveAssemblyReference.cache
-c:\users\donch_000\documents\visual studio 2013\Projects\ConditionalStatements\Exchange\obj\Debug\Exchange.exe
-c:\users\donch_000\documents\visual studio 2013\Projects\ConditionalStatements\Exchange\obj\Debug\Exchange.pdb

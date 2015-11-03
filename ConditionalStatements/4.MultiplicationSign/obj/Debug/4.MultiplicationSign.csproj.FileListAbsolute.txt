@@ -1,4 +1,0 @@
-c:\users\donch_000\documents\visual studio 2013\Projects\ConditionalStatements\4.MultiplicationSign\bin\Debug\4.MultiplicationSign.exe
-c:\users\donch_000\documents\visual studio 2013\Projects\ConditionalStatements\4.MultiplicationSign\bin\Debug\4.MultiplicationSign.pdb
-c:\users\donch_000\documents\visual studio 2013\Projects\ConditionalStatements\4.MultiplicationSign\obj\Debug\4.MultiplicationSign.exe
-c:\users\donch_000\documents\visual studio 2013\Projects\ConditionalStatements\4.MultiplicationSign\obj\Debug\4.MultiplicationSign.pdb

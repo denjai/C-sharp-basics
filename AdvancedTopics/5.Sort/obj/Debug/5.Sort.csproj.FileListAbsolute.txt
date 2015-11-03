@@ -1,4 +1,0 @@
-C:\Users\donch_000\Documents\Visual Studio 2013\Projects\AdvancedTopics\5.Sort\bin\Debug\5.Sort.exe
-C:\Users\donch_000\Documents\Visual Studio 2013\Projects\AdvancedTopics\5.Sort\bin\Debug\5.Sort.pdb
-C:\Users\donch_000\Documents\Visual Studio 2013\Projects\AdvancedTopics\5.Sort\obj\Debug\5.Sort.exe
-C:\Users\donch_000\Documents\Visual Studio 2013\Projects\AdvancedTopics\5.Sort\obj\Debug\5.Sort.pdb

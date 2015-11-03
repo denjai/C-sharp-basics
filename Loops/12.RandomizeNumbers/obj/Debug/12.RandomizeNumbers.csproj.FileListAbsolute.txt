@@ -1,5 +1,0 @@
-c:\users\donch_000\documents\visual studio 2013\Projects\Loops\12.RandomizeNumbers\bin\Debug\12.RandomizeNumbers.exe
-c:\users\donch_000\documents\visual studio 2013\Projects\Loops\12.RandomizeNumbers\bin\Debug\12.RandomizeNumbers.pdb
-c:\users\donch_000\documents\visual studio 2013\Projects\Loops\12.RandomizeNumbers\obj\Debug\12.RandomizeNumbers.csprojResolveAssemblyReference.cache
-c:\users\donch_000\documents\visual studio 2013\Projects\Loops\12.RandomizeNumbers\obj\Debug\12.RandomizeNumbers.exe
-c:\users\donch_000\documents\visual studio 2013\Projects\Loops\12.RandomizeNumbers\obj\Debug\12.RandomizeNumbers.pdb

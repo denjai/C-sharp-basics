@@ -1,6 +1,0 @@
-H:\Dropbox\Projects\Visual Studio 2013\Methods\Methods_2\bin\Debug\Methods_2.exe.config
-H:\Dropbox\Projects\Visual Studio 2013\Methods\Methods_2\bin\Debug\Methods_2.exe
-H:\Dropbox\Projects\Visual Studio 2013\Methods\Methods_2\bin\Debug\Methods_2.pdb
-H:\Dropbox\Projects\Visual Studio 2013\Methods\Methods_2\obj\Debug\Methods_2.csprojResolveAssemblyReference.cache
-H:\Dropbox\Projects\Visual Studio 2013\Methods\Methods_2\obj\Debug\Methods_2.exe
-H:\Dropbox\Projects\Visual Studio 2013\Methods\Methods_2\obj\Debug\Methods_2.pdb

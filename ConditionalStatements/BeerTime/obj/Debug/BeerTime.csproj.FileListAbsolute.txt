@@ -1,5 +1,0 @@
-c:\users\donch_000\documents\visual studio 2013\Projects\ConditionalStatements\BeerTime\obj\Debug\BeerTime.csprojResolveAssemblyReference.cache
-c:\users\donch_000\documents\visual studio 2013\Projects\ConditionalStatements\BeerTime\bin\Debug\BeerTime.exe
-c:\users\donch_000\documents\visual studio 2013\Projects\ConditionalStatements\BeerTime\bin\Debug\BeerTime.pdb
-c:\users\donch_000\documents\visual studio 2013\Projects\ConditionalStatements\BeerTime\obj\Debug\BeerTime.exe
-c:\users\donch_000\documents\visual studio 2013\Projects\ConditionalStatements\BeerTime\obj\Debug\BeerTime.pdb

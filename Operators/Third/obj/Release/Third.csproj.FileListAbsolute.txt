@@ -1,5 +1,0 @@
-C:\Users\donch_000\Documents\Visual Studio 2013\Projects\Operators\Third\bin\Release\Third.exe.config
-C:\Users\donch_000\Documents\Visual Studio 2013\Projects\Operators\Third\bin\Release\Third.exe
-C:\Users\donch_000\Documents\Visual Studio 2013\Projects\Operators\Third\bin\Release\Third.pdb
-C:\Users\donch_000\Documents\Visual Studio 2013\Projects\Operators\Third\obj\Release\Third.exe
-C:\Users\donch_000\Documents\Visual Studio 2013\Projects\Operators\Third\obj\Release\Third.pdb

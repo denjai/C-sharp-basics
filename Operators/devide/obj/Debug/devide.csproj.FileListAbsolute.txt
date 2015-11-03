@@ -1,5 +1,0 @@
-C:\Users\donch_000\Documents\Visual Studio 2013\Projects\Operators\devide\bin\Debug\devide.exe.config
-C:\Users\donch_000\Documents\Visual Studio 2013\Projects\Operators\devide\bin\Debug\devide.exe
-C:\Users\donch_000\Documents\Visual Studio 2013\Projects\Operators\devide\bin\Debug\devide.pdb
-C:\Users\donch_000\Documents\Visual Studio 2013\Projects\Operators\devide\obj\Debug\devide.exe
-C:\Users\donch_000\Documents\Visual Studio 2013\Projects\Operators\devide\obj\Debug\devide.pdb

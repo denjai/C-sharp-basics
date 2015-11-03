@@ -1,4 +1,0 @@
-c:\users\donch_000\documents\visual studio 2013\Projects\ConditionalStatements\2.BonusScore\bin\Debug\2.BonusScore.exe
-c:\users\donch_000\documents\visual studio 2013\Projects\ConditionalStatements\2.BonusScore\bin\Debug\2.BonusScore.pdb
-c:\users\donch_000\documents\visual studio 2013\Projects\ConditionalStatements\2.BonusScore\obj\Debug\2.BonusScore.exe
-c:\users\donch_000\documents\visual studio 2013\Projects\ConditionalStatements\2.BonusScore\obj\Debug\2.BonusScore.pdb

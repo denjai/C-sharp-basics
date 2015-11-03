@@ -1,6 +1,0 @@
-c:\users\donch_000\documents\visual studio 2013\Projects\DataTypes\float\bin\Debug\@float.exe.config
-c:\users\donch_000\documents\visual studio 2013\Projects\DataTypes\float\bin\Debug\@float.exe
-c:\users\donch_000\documents\visual studio 2013\Projects\DataTypes\float\bin\Debug\@float.pdb
-c:\users\donch_000\documents\visual studio 2013\Projects\DataTypes\float\obj\Debug\float.csprojResolveAssemblyReference.cache
-c:\users\donch_000\documents\visual studio 2013\Projects\DataTypes\float\obj\Debug\@float.exe
-c:\users\donch_000\documents\visual studio 2013\Projects\DataTypes\float\obj\Debug\@float.pdb

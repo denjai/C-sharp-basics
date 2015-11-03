@@ -1,5 +1,0 @@
-C:\Users\donch_000\Documents\Visual Studio 2013\Projects\ConsoleInputOutput\Compare\bin\Debug\Compare.exe
-C:\Users\donch_000\Documents\Visual Studio 2013\Projects\ConsoleInputOutput\Compare\bin\Debug\Compare.pdb
-C:\Users\donch_000\Documents\Visual Studio 2013\Projects\ConsoleInputOutput\Compare\obj\Debug\Compare.csprojResolveAssemblyReference.cache
-C:\Users\donch_000\Documents\Visual Studio 2013\Projects\ConsoleInputOutput\Compare\obj\Debug\Compare.exe
-C:\Users\donch_000\Documents\Visual Studio 2013\Projects\ConsoleInputOutput\Compare\obj\Debug\Compare.pdb

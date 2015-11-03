@@ -1,6 +1,0 @@
-H:\Dropbox\Projects\Visual Studio 2013\Methods\Methods_4\bin\Debug\Methods_4.exe.config
-H:\Dropbox\Projects\Visual Studio 2013\Methods\Methods_4\bin\Debug\Methods_4.exe
-H:\Dropbox\Projects\Visual Studio 2013\Methods\Methods_4\bin\Debug\Methods_4.pdb
-H:\Dropbox\Projects\Visual Studio 2013\Methods\Methods_4\obj\Debug\Methods_4.exe
-H:\Dropbox\Projects\Visual Studio 2013\Methods\Methods_4\obj\Debug\Methods_4.pdb
-H:\Dropbox\Projects\Visual Studio 2013\Methods\Methods_4\obj\Debug\Methods_4.csprojResolveAssemblyReference.cache

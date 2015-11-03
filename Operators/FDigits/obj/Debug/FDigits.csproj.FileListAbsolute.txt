@@ -1,5 +1,0 @@
-C:\Users\donch_000\Documents\Visual Studio 2013\Projects\Operators\FDigits\bin\Debug\FDigits.exe.config
-C:\Users\donch_000\Documents\Visual Studio 2013\Projects\Operators\FDigits\bin\Debug\FDigits.exe
-C:\Users\donch_000\Documents\Visual Studio 2013\Projects\Operators\FDigits\bin\Debug\FDigits.pdb
-C:\Users\donch_000\Documents\Visual Studio 2013\Projects\Operators\FDigits\obj\Debug\FDigits.exe
-C:\Users\donch_000\Documents\Visual Studio 2013\Projects\Operators\FDigits\obj\Debug\FDigits.pdb

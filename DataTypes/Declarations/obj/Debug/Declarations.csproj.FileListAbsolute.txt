@@ -1,5 +1,0 @@
-c:\users\donch_000\documents\visual studio 2013\Projects\DataTypes\Declarations\bin\Debug\Declarations.exe.config
-c:\users\donch_000\documents\visual studio 2013\Projects\DataTypes\Declarations\bin\Debug\Declarations.exe
-c:\users\donch_000\documents\visual studio 2013\Projects\DataTypes\Declarations\bin\Debug\Declarations.pdb
-c:\users\donch_000\documents\visual studio 2013\Projects\DataTypes\Declarations\obj\Debug\Declarations.exe
-c:\users\donch_000\documents\visual studio 2013\Projects\DataTypes\Declarations\obj\Debug\Declarations.pdb

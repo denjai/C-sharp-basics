@@ -1,7 +1,0 @@
-C:\Users\donch_000\Documents\Visual Studio 2013\Projects\AdvancedTopics\6.LongestArea\bin\Debug\6.LongestArea.exe
-C:\Users\donch_000\Documents\Visual Studio 2013\Projects\AdvancedTopics\6.LongestArea\bin\Debug\6.LongestArea.pdb
-C:\Users\donch_000\Documents\Visual Studio 2013\Projects\AdvancedTopics\6.LongestArea\obj\Debug\6.LongestArea.csprojResolveAssemblyReference.cache
-C:\Users\donch_000\Documents\Visual Studio 2013\Projects\AdvancedTopics\6.LongestArea\obj\Debug\6.LongestArea.exe
-C:\Users\donch_000\Documents\Visual Studio 2013\Projects\AdvancedTopics\6.LongestArea\obj\Debug\6.LongestArea.pdb
-H:\Dropbox\Projects\Visual Studio 2013\AdvancedTopics\6.LongestArea\obj\Debug\6.LongestArea.exe
-H:\Dropbox\Projects\Visual Studio 2013\AdvancedTopics\6.LongestArea\obj\Debug\6.LongestArea.pdb

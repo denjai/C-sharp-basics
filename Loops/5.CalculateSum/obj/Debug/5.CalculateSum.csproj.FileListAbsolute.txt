@@ -1,5 +1,0 @@
-c:\users\donch_000\documents\visual studio 2013\Projects\Loops\5.CalculateSum\bin\Debug\5.CalculateSum.exe
-c:\users\donch_000\documents\visual studio 2013\Projects\Loops\5.CalculateSum\bin\Debug\5.CalculateSum.pdb
-c:\users\donch_000\documents\visual studio 2013\Projects\Loops\5.CalculateSum\obj\Debug\5.CalculateSum.exe
-c:\users\donch_000\documents\visual studio 2013\Projects\Loops\5.CalculateSum\obj\Debug\5.CalculateSum.pdb
-c:\users\donch_000\documents\visual studio 2013\Projects\Loops\5.CalculateSum\obj\Debug\5.CalculateSum.csprojResolveAssemblyReference.cache

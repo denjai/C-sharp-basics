@@ -1,4 +1,0 @@
-C:\Users\donch_000\Documents\Visual Studio 2013\Projects\ConsoleInputOutput\Interval\bin\Debug\Interval.exe
-C:\Users\donch_000\Documents\Visual Studio 2013\Projects\ConsoleInputOutput\Interval\bin\Debug\Interval.pdb
-C:\Users\donch_000\Documents\Visual Studio 2013\Projects\ConsoleInputOutput\Interval\obj\Debug\Interval.exe
-C:\Users\donch_000\Documents\Visual Studio 2013\Projects\ConsoleInputOutput\Interval\obj\Debug\Interval.pdb

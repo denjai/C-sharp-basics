@@ -1,5 +1,0 @@
-C:\Users\donch_000\Documents\Visual Studio 2013\Projects\Operators\FDigits\bin\Release\FDigits.exe.config
-C:\Users\donch_000\Documents\Visual Studio 2013\Projects\Operators\FDigits\bin\Release\FDigits.exe
-C:\Users\donch_000\Documents\Visual Studio 2013\Projects\Operators\FDigits\bin\Release\FDigits.pdb
-C:\Users\donch_000\Documents\Visual Studio 2013\Projects\Operators\FDigits\obj\Release\FDigits.exe
-C:\Users\donch_000\Documents\Visual Studio 2013\Projects\Operators\FDigits\obj\Release\FDigits.pdb

@@ -1,5 +1,0 @@
-C:\Users\donch_000\Documents\Visual Studio 2013\Projects\Operators\ExtractBit\bin\Release\ExtractBit.exe.config
-C:\Users\donch_000\Documents\Visual Studio 2013\Projects\Operators\ExtractBit\bin\Release\ExtractBit.exe
-C:\Users\donch_000\Documents\Visual Studio 2013\Projects\Operators\ExtractBit\bin\Release\ExtractBit.pdb
-C:\Users\donch_000\Documents\Visual Studio 2013\Projects\Operators\ExtractBit\obj\Release\ExtractBit.exe
-C:\Users\donch_000\Documents\Visual Studio 2013\Projects\Operators\ExtractBit\obj\Release\ExtractBit.pdb

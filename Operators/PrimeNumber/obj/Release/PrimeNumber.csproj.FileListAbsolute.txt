@@ -1,5 +1,0 @@
-C:\Users\donch_000\Documents\Visual Studio 2013\Projects\Operators\PrimeNumber\bin\Release\PrimeNumber.exe.config
-C:\Users\donch_000\Documents\Visual Studio 2013\Projects\Operators\PrimeNumber\bin\Release\PrimeNumber.exe
-C:\Users\donch_000\Documents\Visual Studio 2013\Projects\Operators\PrimeNumber\bin\Release\PrimeNumber.pdb
-C:\Users\donch_000\Documents\Visual Studio 2013\Projects\Operators\PrimeNumber\obj\Release\PrimeNumber.exe
-C:\Users\donch_000\Documents\Visual Studio 2013\Projects\Operators\PrimeNumber\obj\Release\PrimeNumber.pdb
