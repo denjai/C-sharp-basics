@@ -1,0 +1,4 @@
+C:\Users\donch_000\Documents\Visual Studio 2013\Projects\ConsoleInputOutput\FormatingNumbers\bin\Debug\FormatingNumbers.exe
+C:\Users\donch_000\Documents\Visual Studio 2013\Projects\ConsoleInputOutput\FormatingNumbers\bin\Debug\FormatingNumbers.pdb
+C:\Users\donch_000\Documents\Visual Studio 2013\Projects\ConsoleInputOutput\FormatingNumbers\obj\Debug\FormatingNumbers.exe
+C:\Users\donch_000\Documents\Visual Studio 2013\Projects\ConsoleInputOutput\FormatingNumbers\obj\Debug\FormatingNumbers.pdb

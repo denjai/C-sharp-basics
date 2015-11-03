@@ -1,0 +1,8 @@
+c:\users\donch_000\documents\visual studio 2013\Projects\ConsoleInputOutput\3num\bin\Debug\3num.exe
+c:\users\donch_000\documents\visual studio 2013\Projects\ConsoleInputOutput\3num\bin\Debug\3num.pdb
+c:\users\donch_000\documents\visual studio 2013\Projects\ConsoleInputOutput\3num\obj\Debug\3num.exe
+c:\users\donch_000\documents\visual studio 2013\Projects\ConsoleInputOutput\3num\obj\Debug\3num.pdb
+c:\users\donch_000\documents\visual studio 2013\Projects\ConsoleInputOutput\3num\bin\Debug\3num.exe.config
+H:\saved\Projects\ConsoleInputOutput\3num\bin\Debug\3num.exe.config
+H:\saved\Projects\ConsoleInputOutput\3num\obj\Debug\3num.exe
+H:\saved\Projects\ConsoleInputOutput\3num\obj\Debug\3num.pdb

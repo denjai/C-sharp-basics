@@ -1,0 +1,5 @@
+C:\Users\donch_000\Documents\Visual Studio 2013\Projects\Operators\CheckBit\bin\Debug\CheckBit.exe.config
+C:\Users\donch_000\Documents\Visual Studio 2013\Projects\Operators\CheckBit\bin\Debug\CheckBit.exe
+C:\Users\donch_000\Documents\Visual Studio 2013\Projects\Operators\CheckBit\bin\Debug\CheckBit.pdb
+C:\Users\donch_000\Documents\Visual Studio 2013\Projects\Operators\CheckBit\obj\Debug\CheckBit.exe
+C:\Users\donch_000\Documents\Visual Studio 2013\Projects\Operators\CheckBit\obj\Debug\CheckBit.pdb

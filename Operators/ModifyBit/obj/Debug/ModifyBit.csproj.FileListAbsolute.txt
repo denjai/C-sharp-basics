@@ -1,0 +1,7 @@
+C:\Users\donch_000\Documents\Visual Studio 2013\Projects\Operators\ModifyBit\bin\Debug\ModifyBit.exe.config
+C:\Users\donch_000\Documents\Visual Studio 2013\Projects\Operators\ModifyBit\bin\Debug\ModifyBit.exe
+C:\Users\donch_000\Documents\Visual Studio 2013\Projects\Operators\ModifyBit\bin\Debug\ModifyBit.pdb
+C:\Users\donch_000\Documents\Visual Studio 2013\Projects\Operators\ModifyBit\bin\Debug\ModifyBit.exe.CodeAnalysisLog.xml
+C:\Users\donch_000\Documents\Visual Studio 2013\Projects\Operators\ModifyBit\bin\Debug\ModifyBit.exe.lastcodeanalysissucceeded
+C:\Users\donch_000\Documents\Visual Studio 2013\Projects\Operators\ModifyBit\obj\Debug\ModifyBit.exe
+C:\Users\donch_000\Documents\Visual Studio 2013\Projects\Operators\ModifyBit\obj\Debug\ModifyBit.pdb

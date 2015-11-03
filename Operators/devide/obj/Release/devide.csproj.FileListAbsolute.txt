@@ -1,0 +1,5 @@
+C:\Users\donch_000\Documents\Visual Studio 2013\Projects\Operators\devide\bin\Release\devide.exe.config
+C:\Users\donch_000\Documents\Visual Studio 2013\Projects\Operators\devide\bin\Release\devide.exe
+C:\Users\donch_000\Documents\Visual Studio 2013\Projects\Operators\devide\bin\Release\devide.pdb
+C:\Users\donch_000\Documents\Visual Studio 2013\Projects\Operators\devide\obj\Release\devide.exe
+C:\Users\donch_000\Documents\Visual Studio 2013\Projects\Operators\devide\obj\Release\devide.pdb

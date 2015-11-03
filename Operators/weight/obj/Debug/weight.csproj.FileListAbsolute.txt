@@ -1,0 +1,5 @@
+C:\Users\donch_000\Documents\Visual Studio 2013\Projects\Operators\weight\bin\Debug\weight.exe.config
+C:\Users\donch_000\Documents\Visual Studio 2013\Projects\Operators\weight\bin\Debug\weight.exe
+C:\Users\donch_000\Documents\Visual Studio 2013\Projects\Operators\weight\bin\Debug\weight.pdb
+C:\Users\donch_000\Documents\Visual Studio 2013\Projects\Operators\weight\obj\Debug\weight.exe
+C:\Users\donch_000\Documents\Visual Studio 2013\Projects\Operators\weight\obj\Debug\weight.pdb

@@ -1,0 +1,4 @@
+c:\users\donch_000\documents\visual studio 2013\Projects\Loops\4.CardsDeck\bin\Debug\4.CardsDeck.exe
+c:\users\donch_000\documents\visual studio 2013\Projects\Loops\4.CardsDeck\bin\Debug\4.CardsDeck.pdb
+c:\users\donch_000\documents\visual studio 2013\Projects\Loops\4.CardsDeck\obj\Debug\4.CardsDeck.exe
+c:\users\donch_000\documents\visual studio 2013\Projects\Loops\4.CardsDeck\obj\Debug\4.CardsDeck.pdb

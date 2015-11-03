@@ -1,0 +1,5 @@
+C:\Users\donch_000\Documents\Visual Studio 2013\Projects\AdvancedTopics\7.MatrixPoly\bin\Debug\7.MatrixPoly.exe
+C:\Users\donch_000\Documents\Visual Studio 2013\Projects\AdvancedTopics\7.MatrixPoly\bin\Debug\7.MatrixPoly.pdb
+C:\Users\donch_000\Documents\Visual Studio 2013\Projects\AdvancedTopics\7.MatrixPoly\obj\Debug\7.MatrixPoly.csprojResolveAssemblyReference.cache
+C:\Users\donch_000\Documents\Visual Studio 2013\Projects\AdvancedTopics\7.MatrixPoly\obj\Debug\7.MatrixPoly.exe
+C:\Users\donch_000\Documents\Visual Studio 2013\Projects\AdvancedTopics\7.MatrixPoly\obj\Debug\7.MatrixPoly.pdb

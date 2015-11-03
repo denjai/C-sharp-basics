@@ -1,0 +1,6 @@
+H:\Dropbox\Projects\Visual Studio 2013\Methods\Methods_3\bin\Debug\Methods_3.exe.config
+H:\Dropbox\Projects\Visual Studio 2013\Methods\Methods_3\bin\Debug\Methods_3.exe
+H:\Dropbox\Projects\Visual Studio 2013\Methods\Methods_3\bin\Debug\Methods_3.pdb
+H:\Dropbox\Projects\Visual Studio 2013\Methods\Methods_3\obj\Debug\Methods_3.csprojResolveAssemblyReference.cache
+H:\Dropbox\Projects\Visual Studio 2013\Methods\Methods_3\obj\Debug\Methods_3.exe
+H:\Dropbox\Projects\Visual Studio 2013\Methods\Methods_3\obj\Debug\Methods_3.pdb

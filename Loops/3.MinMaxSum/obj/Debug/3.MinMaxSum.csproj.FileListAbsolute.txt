@@ -1,0 +1,4 @@
+c:\users\donch_000\documents\visual studio 2013\Projects\Loops\3.MinMaxSum\bin\Debug\3.MinMaxSum.exe
+c:\users\donch_000\documents\visual studio 2013\Projects\Loops\3.MinMaxSum\bin\Debug\3.MinMaxSum.pdb
+c:\users\donch_000\documents\visual studio 2013\Projects\Loops\3.MinMaxSum\obj\Debug\3.MinMaxSum.exe
+c:\users\donch_000\documents\visual studio 2013\Projects\Loops\3.MinMaxSum\obj\Debug\3.MinMaxSum.pdb

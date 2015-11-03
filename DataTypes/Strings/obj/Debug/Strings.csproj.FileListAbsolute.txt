@@ -1,0 +1,5 @@
+c:\users\donch_000\documents\visual studio 2013\Projects\DataTypes\Strings\bin\Debug\Strings.exe
+c:\users\donch_000\documents\visual studio 2013\Projects\DataTypes\Strings\bin\Debug\Strings.exe.config
+c:\users\donch_000\documents\visual studio 2013\Projects\DataTypes\Strings\bin\Debug\Strings.pdb
+c:\users\donch_000\documents\visual studio 2013\Projects\DataTypes\Strings\obj\Debug\Strings.exe
+c:\users\donch_000\documents\visual studio 2013\Projects\DataTypes\Strings\obj\Debug\Strings.pdb

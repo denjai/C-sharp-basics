@@ -1,0 +1,1 @@
+c:\users\donch_000\documents\visual studio 2013\Projects\Operators\PointInCircle\bin\Debug\PointInCircle.exe.config
