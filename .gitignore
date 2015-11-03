@@ -16,6 +16,20 @@ $RECYCLE.BIN/
 
 # Windows shortcuts
 *.lnk
+# Build results
+[Dd]ebug/
+[Dd]ebugPublic/
+[Rr]elease/
+[Rr]eleases/
+x64/
+x86/
+build/
+bld/
+[Bb]in/
+[Oo]bj/
+
+# Visual Studio 2015 cache/options directory
+.vs/
 
 # =========================
 # Operating System Files
@@ -42,7 +56,3 @@ Network Trash Folder
 Temporary Items
 .apdisk
 
-**/bin/Debug/
-**/bin/Release/
-Debug/
-Release/
